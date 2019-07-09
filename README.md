@@ -7,7 +7,7 @@ Este repositorio contiene la plantilla con la cual puedes crear sitios web para 
     para copiar el repositorio `workshop-template-es` y, así, editarlo de acuerdo a las necesidades de tu taller.
 
 2. Trabaja en el **branch** `gh-pages` de tu repositorio,
-    ya que este es el contenido que será
+    ya que éste es el contenido que será
     [publicado automáticamente como un sitio web por GitHub][github-project-pages].
 
 3. Una vez que hayas terminado, por favor avísanos [por medio de un email] cual será la URL de tu taller. Si se trata de un taller auto-organizado, también debes [completar el formulario para talleres autoorganizados][self-organised-workshop-form], para que podamos seguir el desarrollo de todos los talleres. En nuestro sitio web, construimos una lista de talleres a partir de los datos que incluyas en tu página `index.md`. Sólo podemos hacer eso si [editas][customization] tu página correctamente *y* nos informas sobre la URL del taller.
@@ -115,7 +115,7 @@ please [get in touch](#getting-and-giving-help).
     In the example above, this is `https://gvwilson.github.io/2016-12-01-miskatonic`.
     The finished page should look [something like this](fig/completed-page.png?raw=true).
 
-8.  Optional: you can now change the README.md file in your website's repository, which contains these instructions, so that it contains a short description of your workshop and a link to the workshop website.
+8.  Optional: you can now change the `README.md` file in your website's repository, which contains these instructions, so that it contains a short description of your workshop and a link to the workshop website.
 
 **Note:**
 please do all of your work in your repository's `gh-pages` branch,
